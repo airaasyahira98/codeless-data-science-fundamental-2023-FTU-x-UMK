@@ -52,6 +52,68 @@ Explanation:
 Using Knime Analytics to perform the data and show the visualization of data such as histogram, pie chart and scatter plot.
 
 
+![csv reader](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/16362b05-67a3-46ff-8d41-28872cbbebe7)
+
+CSV reader : to import data that picked from internet resources.
+
+
+![colour manager](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/70d2cc1d-4c01-410a-9137-6d8af583a5e6)
+
+
+Color manager : function as labelling the data to differentiate each row and column and also title.
+
+
+![column filter](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/35f04e03-a349-4b84-92cd-989a524117a6)
+
+
+Column filter : function as filtered the column before visualize the data.
+
+
+![row filter](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/d95421b7-83e1-4ce0-9360-d35d6860283a)
+
+
+Row filter: function as filtered the row before visualize the data.
+
+
+![statistics](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/6e655adf-1939-4d06-a9e2-eea3568d08c0)
+
+
+Statistics : statistics that show overall the data based on year,state and age groups.
+
+
+![partitioning](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/b55912ec-9824-4fc3-9e8d-67e35cf532fa)
+
+
+Partitioning : separate from original data set as 80% for upper port and 20% to lower port.
+
+
+![tree learner](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/a674d4c5-00f0-420d-9284-8c3b76d8a6ea)
+
+
+Function : To predict the age groups.
+
+
+![tree predictor](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/3f69323f-9fc2-40fe-aafc-8d77cb3c7fc8)
+
+
+Function : To apply decision into tree model to test.
+
+
+![interactive local](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/035e196d-7d14-46ad-83d5-b760c372afd8)
+
+
+![scorer](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/516929f2-80bb-4589-8795-bf95c450b386)
+
+
+![scatter plot](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/e7e0843a-6484-486d-a9d0-508d40b04ee8)
+
+
+![donut chart](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/611256c0-5137-449c-b392-d8dc5481b994)
+
+
+![interactive histogram](https://github.com/airaasyahira98/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848310/b8b8e673-1735-4821-918d-eb117c61a59e)
+
+
 
 4. Experimental result
 
